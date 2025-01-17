@@ -18,6 +18,6 @@ hoe bereik ik mijn doel?
 1.opdracht mentor 
 2.vragen reflectieverslag
 
-wie kan mij hte beste helpen dit doel te bereiken 
+wie kan mij het beste helpen dit doel te bereiken 
 1.scan
 2.smart
